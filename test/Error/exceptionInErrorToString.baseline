@@ -1,4 +1,0 @@
-CALLED toString
-ERROR attempting to coerce error to string, using alternate handler
-'a' is not defined
-        at code (exceptionInErrorToString.js:12:1)

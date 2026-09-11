@@ -1,4 +1,0 @@
-gen.next() = {value: 2, done: false}
-gen.next() = {value: 3, done: false}
-
-Reached end of Execution -- Exiting.

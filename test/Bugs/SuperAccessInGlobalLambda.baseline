@@ -1,2 +1,0 @@
-SyntaxError: Invalid use of the 'super' keyword
-	at code (SuperAccessInGlobalLambda.js:6:12)

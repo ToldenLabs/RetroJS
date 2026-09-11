@@ -1,2 +1,0 @@
-SyntaxError: Illegal 'use strict' directive in function with non-simple parameter list
-	at code (nonSimpleParameterList.js:8:30)

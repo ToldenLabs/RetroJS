@@ -1,2 +1,0 @@
-TypeError: The global property undefined is not configurable, writable, nor enumerable, therefore cannot be declared as a function
-	at Global code (CanDeclareGlobalFunctionNonEval.js:1:1)

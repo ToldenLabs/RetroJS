@@ -1,3 +1,0 @@
-Testtrace: BoundCheckElimination function foo ( (#1.1), #2): Eliminating array lower bound check
-Testtrace: BoundCheckElimination function foo ( (#1.1), #2): Eliminating array upper bound check
-Testtrace: BoundCheckElimination function foo ( (#1.1), #2): Eliminating IsIn
